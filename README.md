@@ -12,6 +12,9 @@
 * [Pekleken ](https://play.google.com/store/apps/details?id=com.jagharaldrig.stoffe.pekleken) (Android SDK/Java) - Entertainment/Party
 * [Charader](https://play.google.com/store/apps/details?id=com.jagharaldrig.stoffe.charader) (Android SDK/Java) - Entertainment/Party
 * [Sanning eller Konsekvens](https://play.google.com/store/apps/details?id=com.jagharaldrig.stoffe.sanningellerkonka) (Android SDK/Java) - Entertainment/Party
+* [Chess Clock](https://play.google.com/store/apps/details?id=com.stoffe.chessclock) (Android SDK/Java) - App/Game
+* [Gym Log App](https://play.google.com/store/apps/details?id=com.stoffe.gym) (Android SDK/Java/kotlin) - App/Life Style
+* [Food Log App](https://play.google.com/store/apps/details?id=com.stoffe.ibs2) (Android SDK/Java/kotlin) - App/Life Style
 
 
 # iOS
